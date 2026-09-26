@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "INSPECTRA Field Inspector",
+    "slug": "inspectra-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#0A2540"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0A2540"
+      },
+      "package": "in.gov.dosje.inspectra"
+    }
+  }
+}

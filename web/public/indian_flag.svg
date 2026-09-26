@@ -1,0 +1,23 @@
+﻿<svg xmlns=http://www.w3.org/2000/svg viewBox=0 0 900 600 width=900 height=600>
+  <rect width=900 height=200 fill=#FF9933/>
+  <rect y=200 width=900 height=200 fill=#FFFFFF/>
+  <rect y=400 width=900 height=200 fill=#138808/>
+  <g transform=translate(450, 300)>
+    <circle r=78 fill=none stroke=#000080 stroke-width=6/>
+    <circle r=15 fill=#000080/>
+    <g id=spokes>
+      <line x1=0 y1=-78 x2=0 y2=78 stroke=#000080 stroke-width=3/>
+      <line x1=-78 y1=0 x2=78 y2=0 stroke=#000080 stroke-width=3/>
+      <line x1=-55.15 y1=-55.15 x2=55.15 y2=55.15 stroke=#000080 stroke-width=3/>
+      <line x1=-55.15 y1=55.15 x2=55.15 y2=-55.15 stroke=#000080 stroke-width=3/>
+      <line x1=-20.19 y1=-75.34 x2=20.19 y2=75.34 stroke=#000080 stroke-width=3/>
+      <line x1=-39 y1=-67.55 x2=39 y2=67.55 stroke=#000080 stroke-width=3/>
+      <line x1=-67.55 y1=-39 x2=67.55 y2=39 stroke=#000080 stroke-width=3/>
+      <line x1=-75.34 y1=-20.19 x2=75.34 y2=20.19 stroke=#000080 stroke-width=3/>
+      <line x1=-75.34 y1=20.19 x2=75.34 y2=-20.19 stroke=#000080 stroke-width=3/>
+      <line x1=-67.55 y1=39 x2=67.55 y2=-39 stroke=#000080 stroke-width=3/>
+      <line x1=-39 y1=67.55 x2=39 y2=-67.55 stroke=#000080 stroke-width=3/>
+      <line x1=-20.19 y1=75.34 x2=20.19 y2=-75.34 stroke=#000080 stroke-width=3/>
+    </g>
+  </g>
+</svg>
