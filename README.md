@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # INSPECTRA
 ### Integrated Risk-Based Monitoring & Inspection Platform
 *Smart Real-Time Monitoring, Risk-Based Inspection, CCTV Integration and Evidence-Driven Compliance Management for DoSJE-Supported Institutions*
@@ -147,3 +148,7 @@ npm start
 
 ### Q5: Why Flask + SQL?
 > **Answer:** Flask is lightweight, Python-native, and integrates seamlessly with Scikit-learn (Isolation Forest) and OpenCV (`cv2`). SQL relational database schema guarantees referential integrity between inspections, evidence, and corrective actions.
+=======
+# Inspectra-
+# INSPECTRA  **INSPECTRA** is a government-focused **Inspection, Monitoring &amp; Compliance Management Platform** designed to digitize and streamline institutional inspections.  It enables authorized officials to **plan inspections, conduct field assessments, capture evidence, identify risks, track corrective actions, and monitor compliance** 
+>>>>>>> 1bb6f689eca4bfc92d159835289ce8c818d1712c
